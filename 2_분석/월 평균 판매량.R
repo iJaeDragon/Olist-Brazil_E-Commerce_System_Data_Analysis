@@ -18,10 +18,13 @@ GROUP BY SUBSTR(ORDER_DELIVERED_CARRIER_DATE, 0, 7) ";
 
 result <- dbGetQuery(conn, sql);
 
-print(min(result$DT));
-print(max(result$DT));
+minDate <- min(result$DT);
+maxDate <- max(result$DT);
 
-ts_data <- ts(result$VALUE, start = c(2016, 10), end = c(2018, 9), frequency = 12);
+print(substr(minDate, 0, 4));
+print(substr(maxDate, 6, 7));
+
+ts_data <- ts(result$VALUE, start = c(substr(minDate, 0, 4), substr(minDate, 6, 7)), end = c(substr(maxDate, 0, 4), substr(maxDate, 6, 7)), frequency = 12);
 
 print(ts_data);
 
