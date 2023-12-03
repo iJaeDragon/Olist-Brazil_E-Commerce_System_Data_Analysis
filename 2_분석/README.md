@@ -16,7 +16,11 @@
 
 ## 주문율이 높은 지역
 
-![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/55a95eda-0ea2-48aa-86dd-57cb515d3e21)
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/3c3ba298-10df-4073-961c-f328aa33c108)
 
 sao paulo 지역에서 가장 많이 주문을 하였고, curitiba 지역에서 가장 적은 주문을 하였다.
 이 통계를 통해서 배송 시스템 구축에 활용할 수 있을 것이다.
+
+## 가장 인기 있는 카테고리
+
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/90d4305e-5deb-461a-a90f-3617b727ff7d)
