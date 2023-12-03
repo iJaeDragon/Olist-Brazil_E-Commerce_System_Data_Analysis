@@ -1,9 +1,11 @@
 ## 월 평균 판매량
 
+```
       Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
 2016                                              3710 4131 3709
 2017   32 6637 6108 4328 7059 7002 7178 4482 1517 7058 6081 6605
 2018 2717 3263    2    3 6981 6055  612 2141  247
+```
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/8942a0b3-576f-4b1e-8cbc-18706f49e695)
 
