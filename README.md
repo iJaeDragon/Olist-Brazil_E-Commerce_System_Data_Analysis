@@ -18,3 +18,4 @@ public information : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## 분석 과정
 
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/39657310-91e3-4d3a-86d8-9b911b7353b5)
