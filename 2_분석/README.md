@@ -9,7 +9,7 @@
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/8942a0b3-576f-4b1e-8cbc-18706f49e695)
 
-### 많은 연도 데이터가 있는게 자세한 분석은 힘들지만 현재 분석 결과를 보았을 때 May에 가장 많은 판매율을 기록했고 Sep에 급격히 저하된 걸 알 수 있다.
+### 많은 연도 데이터가 있는게 아니라서 자세한 분석은 힘들지만 현재 분석 결과를 보았을 때 May에 가장 많은 판매율을 기록했고 Sep에 급격히 저하된 걸 알 수 있다.
 
 <br/><br/>
 
