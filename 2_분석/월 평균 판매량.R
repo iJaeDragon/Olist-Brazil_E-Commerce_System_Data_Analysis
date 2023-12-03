@@ -21,9 +21,6 @@ result <- dbGetQuery(conn, sql);
 minDate <- min(result$DT);
 maxDate <- max(result$DT);
 
-print(substr(minDate, 0, 4));
-print(substr(maxDate, 6, 7));
-
 ts_data <- ts(result$VALUE, start = c(substr(minDate, 0, 4), substr(minDate, 6, 7)), end = c(substr(maxDate, 0, 4), substr(maxDate, 6, 7)), frequency = 12);
 
 print(ts_data);
