@@ -26,3 +26,6 @@ sao paulo 지역에서 가장 많이 주문을 하였고, curitiba 지역에서 
 ## 가장 인기 있는 카테고리
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/90d4305e-5deb-461a-a90f-3617b727ff7d)
+
+가장 인기 있는 카테고리는 Malas Acessorios(가방 악세사리)로 확인 되었으며
+사용자에게 해당 통계를 컨텐츠성으로 제공해주 수 있을 것이다.
