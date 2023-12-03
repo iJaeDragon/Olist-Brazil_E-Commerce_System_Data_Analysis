@@ -19,8 +19,12 @@ FROM (
             ORDER BY AVG DESC, CNT DESC
         ) A
      ) B
-WHERE B.RN <= 10 ";
+WHERE B.RN <= 10
+AND CNT >= 100
+ORDER BY RN ";
 
 r <- dbGetQuery(conn, sql)
 
-r
+bp<-barplot(r$CNT, names.arg=r$CUSTOMER_CITY, las=1, col=rainbow(5), ylim = c(0,1200), main="가장 인기 있는 카테고리")
+
+text(x=bp, y=r$CNT* 1.1, labels = r$PRODUCT_CATEGORY_NAME, col="black", cex=1.2)

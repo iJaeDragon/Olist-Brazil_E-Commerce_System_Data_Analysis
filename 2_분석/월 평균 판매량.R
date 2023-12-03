@@ -25,4 +25,4 @@ ts_data <- ts(result$VALUE, start = c(substr(minDate, 0, 4), substr(minDate, 6, 
 
 print(ts_data);
 
-ggseasonplot(ts_data, year.labels = TRUE, xlab = "Month", ylab = "판매 량") 
+ggseasonplot(ts_data, year.labels = TRUE, xlab = "Month", ylab = "판매 량") + labs(title="월 평균 판매량")

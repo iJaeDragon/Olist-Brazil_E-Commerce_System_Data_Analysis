@@ -4,7 +4,7 @@ library(RJDBC)
 jdbcDriver <- JDBC(driverClass = "oracle.jdbc.OracleDriver", classPath = "C://ojdbc6.jar");
 
 conn <- dbConnect(jdbcDriver, "jdbc:oracle:thin:@192.168.114.128:1515:XE", "dev", "tester");
-  
+
 
 sql <- "SELECT A.*
 FROM (
