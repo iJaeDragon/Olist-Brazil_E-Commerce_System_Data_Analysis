@@ -1,21 +1,18 @@
-# Olist-Brazil_E-Commerce_System_Data_Analysis
+## 월 평균 판매량
 
-### Brazilian E-Commerce Public Dataset by Olist Data
+      Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+2016                                              3710 4131 3709
+2017   32 6637 6108 4328 7059 7002 7178 4482 1517 7058 6081 6605
+2018 2717 3263    2    3 6981 6055  612 2141  247
 
-public information : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/8942a0b3-576f-4b1e-8cbc-18706f49e695)
+
+### 많은 연도 데이터가 있는게 자세한 분석은 힘들지만 현재 분석 결과를 보았을 때 May에 가장 많은 판매율을 기록했고 Sep에 급격히 저하된 걸 알 수 있다.
 
 
-![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/bb93c0fc-a522-4dbe-ab52-287498c1c7a7)
 
+## 주문율이 높은 지역
 
-## 환경 구성
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/db604eae-980e-4791-8b6e-619b60a4af3a)
 
-### Database : Oracle
-
-### Language : SQL, R
-
-### IDE : R Studio
-
-## 분석 과정
-
-![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/39657310-91e3-4d3a-86d8-9b911b7353b5)
+### sao paulo 지역에서 가장 많이 주문을 하였고, curitiba 지역에서 가장 적은 주문을 하였다.
