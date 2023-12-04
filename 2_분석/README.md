@@ -18,10 +18,14 @@
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/7871643c-3726-4a04-8f9a-7fadb949c497)
 
-sao paulo 지역에서 가장 많이 주문을 하였고, curitiba 지역에서 가장 적은 주문을 하였다.
+sao paulo 지역에서 가장 많이 고객을 유치 한것을 확인할 수 있다.
 이 통계를 통해서 배송 시스템 구축에 활용할 수 있을 것이다.
 
 <br/><br/>
+
+## 고객 유치율이 높은 행정구역 지도 시각화
+
+![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/c8cdfab1-d3a6-403f-a2ab-f062aef2d798)
 
 ## 가장 인기 있는 카테고리
 
