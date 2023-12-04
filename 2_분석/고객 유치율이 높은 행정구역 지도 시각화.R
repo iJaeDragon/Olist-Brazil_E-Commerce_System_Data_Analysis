@@ -41,4 +41,4 @@ ggplot() +
   geom_sf(data = map_data, aes(fill = CNT), color = "white", size = 0.2) +
   scale_fill_viridis_c(name = "Order Count") +
   theme_minimal() +
-  labs(title = "Brazil Map Colored by Order Count")
+  labs(title = "유치율이 높은 행정지역")
