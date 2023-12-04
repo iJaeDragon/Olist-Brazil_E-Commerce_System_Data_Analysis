@@ -27,6 +27,8 @@ sao paulo 지역에서 가장 많이 고객을 유치 한것을 확인할 수 �
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/c8cdfab1-d3a6-403f-a2ab-f062aef2d798)
 
+<br/><br/>
+
 ## 가장 인기 있는 카테고리
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/90d4305e-5deb-461a-a90f-3617b727ff7d)
