@@ -23,7 +23,7 @@ sao paulo 지역에서 가장 많이 고객을 유치 한것을 확인할 수 �
 
 <br/><br/>
 
-## 고객 유치율이 높은 행정구역 지도 시각화
+### 고객 유치율이 높은 행정구역 지도 시각화
 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/c8cdfab1-d3a6-403f-a2ab-f062aef2d798)
 
