@@ -37,3 +37,5 @@ sao paulo 지역에서 가장 많이 주문을 하였고, curitiba 지역에서 
 ![image](https://github.com/iJaeDragon/Olist-Brazil_E-Commerce_System_Data_Analysis/assets/66985977/f77462ff-462b-4a86-8f90-5763886c2864)
 
 해당 통계를 토대로 점검 일자 등을 선정하는데 활용할 수 있을 것이다.
+
+## 배송 소요일이 평점에 영향을 주는지 파악
